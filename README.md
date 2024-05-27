@@ -37,4 +37,7 @@ Win Ratio: 0.23529411764705882
 
 ## Plot
 - Plotted the stock price with buy and sell signals
-- 
+- ![image](https://github.com/yug1303/stock-market-sentiments/assets/149922985/ae98c070-a97b-48e1-b2e6-3cb22d858634)
+# portfolio returns
+![image](https://github.com/yug1303/stock-market-sentiments/assets/149922985/37ca5188-d070-45ba-88ee-19e0e0841cac)
+
